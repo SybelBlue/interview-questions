@@ -1,0 +1,11 @@
+What is a Component's "state" in React?
+
+How does it differ from a "prop"?
+
+Can you give an example of a situation when 
+you would use state and not prop?
+
+// 1 min
+
+// Props are computed! See 
+https://github.com/sudheerj/reactjs-interview-questions#what-are-props-in-react

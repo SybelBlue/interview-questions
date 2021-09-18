@@ -1,0 +1,3 @@
+What is the difference between a React Element and a Component?
+
+// 30 secs

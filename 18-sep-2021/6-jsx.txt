@@ -1,0 +1,7 @@
+What is JSX? 
+
+// 30 sec
+
+JSX is the templating language for React!
+It allows us to put JS in HTML and HTML in JS,
+very useful for creating components.

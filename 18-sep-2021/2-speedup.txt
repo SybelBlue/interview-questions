@@ -1,0 +1,11 @@
+You're handed an existing webpage with a button that says "Load Images".
+
+When a user clicks on the button, it populates a div with many, many cat pictures.
+
+The only trouble is that there's a huge delay between clicking the button, and
+seeing the pictures. What's worse is that the entire website freezes until the
+pictures appear.
+
+How would you approach speeding up the code? 
+
+// 2.5 mins to read and respond
