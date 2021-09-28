@@ -1,0 +1,3 @@
+What are the major features that React offers?
+
+// 1 min to respond

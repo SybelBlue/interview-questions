@@ -1,0 +1,14 @@
+What is a React Fragment?
+
+// 1 min to respond
+
+// a fragment example
+render() {
+  return (
+    <React.Fragment>
+      <ChildA />
+      <ChildB />
+      <ChildC />
+    </React.Fragment>
+  )
+}
