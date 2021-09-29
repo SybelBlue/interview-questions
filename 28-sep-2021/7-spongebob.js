@@ -1,6 +1,8 @@
 // Your coworker Charlie writes a function
 // to make text appear like mocking spongebob.
 //
+// "here's some text!" -> "HeRe's sOmE TeXt!"
+//
 // https://knowyourmeme.com/photos/1253025-mocking-spongebob
 //
 // The only trouble is that there's sometimes a bug!

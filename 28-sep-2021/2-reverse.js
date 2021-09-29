@@ -3,7 +3,7 @@
 
 // 1 min to respond
 
-const list = [1, 2, 3, 4];
+var list = [1, 2, 3, 4];
 
 var x = list.reverse();
 
