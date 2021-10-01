@@ -25,6 +25,9 @@ function mockingSpongebob(word) {
         return word;
     }
     const first = word.getCharAt(0).toUpperCase();
+    if (word.length == 1) {
+        return first;
+    }
     const second = word.getCharAt(1).toLowerCase();
     const rest = word.slice(2);
     return first + second + mockingSpongebob(rest);

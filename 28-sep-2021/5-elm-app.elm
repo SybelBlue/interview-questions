@@ -36,7 +36,7 @@ type alias Model =
 
 init : Model
 init =
-  { content = "" }
+  { content = "Reverse Text Here!" }
 
 
 -- CONTROLLER

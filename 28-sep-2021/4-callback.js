@@ -2,13 +2,13 @@
 
 // 1 min to respond
 
-const foo = setInterval;
+// const foo = setInterval;
 
-function bar(event) {
-    event = event || {};
-    event.timestamp = new Date();
-    console.log('recieved', event);
-}
+// var bar = function(event) {
+//     event = event || {};
+//     event.timestamp = new Date();
+//     console.log('recieved', event);
+// };
 
 function baz(n) {
     const x = Math.floor(2 * n / 3);
@@ -16,4 +16,8 @@ function baz(n) {
 }
 
 
-foo(bar, baz(1000));
+setInterval(function(event) {
+    event = event || {};
+    event.timestamp = new Date();
+    console.log('recieved', event);
+}, 1000);
